@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 10 Oct 2026 23:59:21 +0000
+Description: skimmer apt repository
+Label: skimmer
+Origin: skimmer
+Suite: stable
+MD5Sum:
+ d3f0ea9a3eb27d1889fbc3135e4e9dd5              180 Release
+ 8ac9bf9365c10d8f458df1af0d39a732              550 main/binary-amd64/Packages
+ 68c78bfc760362734f113900f6cca3d1              420 main/binary-amd64/Packages.gz
+ ae28c427e56498781fb8e91e2cdf4f60              549 main/binary-arm64/Packages
+ 7e367cad4d8e3cb61413872423e34183              421 main/binary-arm64/Packages.gz
+SHA1:
+ 1600ad229e27a976f210d0974e358a244df929f4              180 Release
+ 70786224b5ff4f1d30310183147eb61c921a6211              550 main/binary-amd64/Packages
+ 4d1acaacb73ca04d6eb8213d94aab08a7c14aed7              420 main/binary-amd64/Packages.gz
+ c05dfa63525d85cf13fcd2917052c68c4b390e42              549 main/binary-arm64/Packages
+ b6b20ace95972ee00cc08a8b8e64413eba54739e              421 main/binary-arm64/Packages.gz
+SHA256:
+ d01c961c6953355b37b87634c169f5a170744ffbebcb933fc082e01e6c53280a              180 Release
+ 098125cc75bace4d5440858af35d61d21aa4a83d8b212a9388f1edee9586e660              550 main/binary-amd64/Packages
+ 6b4923d35aa615f83ab1d21ac72b45d2426eded31f2bf5765dc618fb3b69afac              420 main/binary-amd64/Packages.gz
+ ab88dae6c16229a4e956c2924adaf15e91ed156e1d52a3f47e6a1793c6357109              549 main/binary-arm64/Packages
+ 9aca4141e3879cd4a27e787b44df7bd06e486e1d42b8753912563fd5a8f2de9c              421 main/binary-arm64/Packages.gz
+SHA512:
+ f157ebbfe056eabc92f44e5acf1811ea2cdd358c43661dd4ba6536e0f095ea57c94b2d4dca82d1ac2f191a2139aaff9e9fab5d7353b5c4847a081ade1f3da076              180 Release
+ c82e5b19717298d30f90f1fba83e9868e5a315b81e245d3d1ea4f1b3fea62de39c514ca923724ffc2a6e5b2786610ac4af17b5a9a3356cdc1adcbb27c5303412              550 main/binary-amd64/Packages
+ caa18d53ce04a5a6db40cd2c9a4dd2e4b390add05f29894251f698548419d698605d09e136bf1642ef8611735c1f6b69a869f05ade3c47fea04dddaa0411c3f8              420 main/binary-amd64/Packages.gz
+ c6f410cde173f7b2cdf8ccbb1497dcba68426c1979e2c146fc6e969d14760a9b32911ea51caf3b36daea2290d040de9e2a9c36cc9d1d28998545c6fccf041af3              549 main/binary-arm64/Packages
+ e44b888701fdf5df218c94617af19d650c37fe08930b6ffcbbc5bdb3a27d5e3b9694d4ead528914c29c69633d962c22a8e694761193e74e0998bd99114f1c227              421 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJB1ndIK+w5Xhh7RpPRpAmMtAQfIFAmrK0VkACgkQPRpAmMtA
+QfJ/ihAAj2yjM3gGqf8hbXcLBGDH9/Hfjq4rKnKUdNrCRafSpCEYAAoDEcutSCTR
+WKYuRpFDzFg605yIY8wReFv4el9+G6ODuhu4jZ0hW5ixUFw28Zrsnc0EgQSZ0HNM
+NBQ6Vw/GOq9Qn8k/ZjvDNqh79P8QCCmuKwCv1cdRe1Y/Rs0N4aIa6YbEWzNkmonF
+2yaOFXrvRctPswS8vS/Dwb724Gxtw/WtJ7BkMfgrKeGrocD6pxNY/jVRyvdC5mNw
+V++jr1SmIw/RG0def3yo43wb0FX6boY94P8NaGrvLoRVzA4o7beYUpZ3PtEp+K4Z
+QyMkahTbEp+5UvO9043B0Crlha/BNguTpqBxM9PKCsq3Xrs/hh+nKFNtP40VMG8v
+mtIltE6wuEShse6s1x30prdVZloafzFwTtpZmw7FPIPY38ZajvRMj35vd6iceLiy
+LkH9c/rwJx6cf7Esn/C5cPGSkUmQIUv7yZA3UDHsmJVSWWF10FDZn1FJRyEf1131
+RU1x9REz+963ad4Molht1tvJGjC+aSqK7Lc8yrEvaKQALvm26BJQ8Fh58OVHXj0p
+AnREQmdXPOu938QjU4YCORPqaoP9UZyf1Q6ERix48PObXJcjvxtXDu6nupupNGS8
+rH/AR2/yuOAA1xytbVqnk2KR+ucHBeknAJDASMTRbDq/eXJsj9M=
+=NDaO
+-----END PGP SIGNATURE-----
