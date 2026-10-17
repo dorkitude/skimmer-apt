@@ -30,3 +30,19 @@ Homepage: https://github.com/dorkitude/skimmer
 Description: Skim pages, files, and lists with Jev, keeping only what helps with
  your goal. Saves agent tokens.
 
+Package: skimmer
+Version: 0.1.103
+Architecture: amd64
+Maintainer: Kyle Wild <kyle@kylewild.com>
+Installed-Size: 10469
+Filename: pool/main/s/skimmer/skimmer_0.1.103_linux_amd64.deb
+Size: 4355822
+MD5sum: 3d268cfd8d5f2c093f39a545e6677875
+SHA1: b1d25a0285c763d6f6f44c6cadd468003e0919aa
+SHA256: 23b55b15ab34fbf652843eab9baccf331fabe8ffd04f1fd7242646ceaf2e9afa
+Section: utils
+Priority: optional
+Homepage: https://github.com/dorkitude/skimmer
+Description: Skim pages, files, and lists with Jev, keeping only what helps with
+ your goal. Saves agent tokens.
+
